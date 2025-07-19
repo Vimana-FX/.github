@@ -1,7 +1,5 @@
 ## Hi there! 👋 Welcome to Vimana FX
 
-[Visit Our Website 🚀](https://www.vimanafx.com)
-
 
 > 🎨 **Color Palette:**  
 > Indigo Eclipse `#4B3F72` &nbsp;|&nbsp; Sunset Coral `#F76C5E` &nbsp;|&nbsp; Electric Pistachio `#A5E65A`  
